@@ -1,5 +1,7 @@
 from psychopy import visual, core, event
 
+# this is nice code 
+
 stim1 = visual.TextStim(t='Stimulus 1', pos=(0, 0), color='black')
 stim2 = visual.TextStim(t='Stimulus 2', pos=(0, 0), color='black')
 
